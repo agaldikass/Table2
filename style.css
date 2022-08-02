@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 30px;
+    font-family: lato;
+}
+
+table, th, td{
+    border: 1px solid white;
+    color: white;
+    
+   }
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    
+    
+    }
+
+    tr:nth-child(even){
+        background-color: #ed07b7;
+    }
+    tr:nth-child(1){
+        background: rgb(129, 4, 129);
+    }
+    tr:nth-child(3){
+        background: rgb(163, 0, 163);
+    }
+    tr:nth-child(5){
+        background: rgb(163, 0, 163);
+    }
+
+    
+
+    
+
+
+   
+
+
+
+
+
+    
